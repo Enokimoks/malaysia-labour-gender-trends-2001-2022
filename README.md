@@ -1,4 +1,4 @@
-# 🇲🇾 Malaysia Employment Analysis (2001–2024)
+# Malaysia Employment Analysis (2001–2024)
 
 **Author:** Enoch Imoke  
 **Field:** Library and Information Science  
